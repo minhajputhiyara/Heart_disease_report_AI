@@ -1,0 +1,32 @@
+Healthy Data Example
+This represents a typical healthy individual based on common cardiovascular health metrics:
+
+Age: 30
+Gender: Male
+Chest Pain Type: 0 (Typical angina)
+Resting Blood Pressure: 120
+Serum Cholesterol: 180
+Fasting Blood Sugar: 0 (No)
+Resting Electrocardiographic Results: 1 (Normal)
+Maximum Heart Rate: 160
+Exercise-Induced Angina: 0 (No)
+ST Depression: 0.0
+Slope of Peak Exercise ST Segment: 2 (Upsloping)
+Number of Major Vessels: 0
+Thalassemia Type: 1 (Normal)
+Non-Healthy Data Example
+This represents a typical individual with potential heart disease risk factors:
+
+Age: 55
+Gender: Female
+Chest Pain Type: 2 (Non-anginal pain)
+Resting Blood Pressure: 150
+Serum Cholesterol: 240
+Fasting Blood Sugar: 1 (Yes)
+Resting Electrocardiographic Results: 0 (Abnormal)
+Maximum Heart Rate: 120
+Exercise-Induced Angina: 1 (Yes)
+ST Depression: 1.5
+Slope of Peak Exercise ST Segment: 0 (Downsloping)
+Number of Major Vessels: 2
+Thalassemia Type: 2 (Fixed defect)
