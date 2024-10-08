@@ -48,14 +48,27 @@ bash
 Copy code
 pip install -r requirements.txt
 
-### 3. Required Libraries:
-xgboost
-pandas
-numpy
-sklearn
-shap
-matplotlib
-seaborn
-pickle
-langchain_huggingface
-streamlit
+### 3. Required Libraries
+
+- `xgboost`
+- `pandas`
+- `numpy`
+- `sklearn`
+- `shap`
+- `matplotlib`
+- `seaborn`
+- `pickle`
+- `langchain_huggingface`
+- `streamlit`
+
+### 4. Installation
+
+To install the required libraries, you can use pip. Run the following command in your terminal:
+
+```bash
+pip install xgboost pandas numpy sklearn shap matplotlib seaborn langchain_huggingface streamlit
+
+### 5. Running Streamlit app
+
+  streamlit run main.py
+
