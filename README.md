@@ -43,12 +43,12 @@ To get this project up and running on your local machine, follow these steps:
 git clone https://github.com/yourusername/heart-disease-prediction.git
 cd heart-disease-prediction
 
-### 2. Install the required dependencies:
+## 2. Install the required dependencies:
 bash
 Copy code
 pip install -r requirements.txt
 
-### 3. Required Libraries
+## 3. Required Libraries
 
 - `xgboost`
 - `pandas`
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 - `langchain_huggingface`
 - `streamlit`
 
-### 4. Installation
+## 4. Installation
 
 To install the required libraries, you can use pip. Run the following command in your terminal:
 
