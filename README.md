@@ -48,7 +48,7 @@ bash
 Copy code
 pip install -r requirements.txt
 
-## 3. Required Libraries
+**## 3. Required Libraries**
 
 - `xgboost`
 - `pandas`
